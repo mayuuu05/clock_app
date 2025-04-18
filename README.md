@@ -1,4 +1,4 @@
-# clockapp
+# Clockapp
 
 
 https://github.com/mayuuu05/clock_app/assets/149376263/389fe2cf-eded-4f46-a669-157ca6ba0141
